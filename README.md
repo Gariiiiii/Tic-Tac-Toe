@@ -21,3 +21,6 @@ This is a simple Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript. I
 - HTML5
 - CSS3
 - JavaScript
+
+## Preview
+https://gariiiiii.github.io/Tic-Tac-Toe/
